@@ -1,5 +1,5 @@
 {
-  "name": "React Avançado - Boilerplate",
+  "name": "My Trips",
   "short_name": "React Avançado",
   "icons": [
     {
@@ -14,7 +14,7 @@
     }
   ],
   "background_color": "#06092B",
-  "description": "Boilerplate utilizando Typescript, React, NextJS e Styled Components!",
+  "description": "A simple project to show my favorite spots in the word.",
   "display": "fullscreen",
   "start_url": "/",
   "theme_color": "#06092B"
